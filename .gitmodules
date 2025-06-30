@@ -1,0 +1,6 @@
+[submodule "microsservices/algacoments-moderation"]
+	path = microsservices/algacoments-moderation
+	url = https://github.com/KievMaia/algacoments-moderation.git
+[submodule "microsservices/algacoments-coments"]
+	path = microsservices/algacoments-coments
+	url = https://github.com/KievMaia/algacoments-coments.git
